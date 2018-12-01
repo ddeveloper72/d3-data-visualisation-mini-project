@@ -1,0 +1,3575 @@
+[
+  {
+    "": 1,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 19,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 139750
+  },
+  {
+    "": 2,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 20,
+    "yrs.service": 16,
+    "sex": "Male",
+    "salary": 173200
+  },
+  {
+    "": 3,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 79750
+  },
+  {
+    "": 4,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 45,
+    "yrs.service": 39,
+    "sex": "Male",
+    "salary": 115000
+  },
+  {
+    "": 5,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 40,
+    "yrs.service": 41,
+    "sex": "Male",
+    "salary": 141500
+  },
+  {
+    "": 6,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 6,
+    "yrs.service": 6,
+    "sex": "Male",
+    "salary": 97000
+  },
+  {
+    "": 7,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 30,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 175000
+  },
+  {
+    "": 8,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 45,
+    "yrs.service": 45,
+    "sex": "Male",
+    "salary": 147765
+  },
+  {
+    "": 9,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 21,
+    "yrs.service": 20,
+    "sex": "Male",
+    "salary": 119250
+  },
+  {
+    "": 10,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 18,
+    "yrs.service": 18,
+    "sex": "Female",
+    "salary": 129000
+  },
+  {
+    "": 11,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 12,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 119800
+  },
+  {
+    "": 12,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 7,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 79800
+  },
+  {
+    "": 13,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 1,
+    "yrs.service": 1,
+    "sex": "Male",
+    "salary": 77700
+  },
+  {
+    "": 14,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 2,
+    "yrs.service": 0,
+    "sex": "Male",
+    "salary": 78000
+  },
+  {
+    "": 15,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 20,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 104800
+  },
+  {
+    "": 16,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 12,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 117150
+  },
+  {
+    "": 17,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 19,
+    "yrs.service": 20,
+    "sex": "Male",
+    "salary": 101000
+  },
+  {
+    "": 18,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 38,
+    "yrs.service": 34,
+    "sex": "Male",
+    "salary": 103450
+  },
+  {
+    "": 19,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 37,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 124750
+  },
+  {
+    "": 20,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 39,
+    "yrs.service": 36,
+    "sex": "Female",
+    "salary": 137000
+  },
+  {
+    "": 21,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 31,
+    "yrs.service": 26,
+    "sex": "Male",
+    "salary": 89565
+  },
+  {
+    "": 22,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 36,
+    "yrs.service": 31,
+    "sex": "Male",
+    "salary": 102580
+  },
+  {
+    "": 23,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 34,
+    "yrs.service": 30,
+    "sex": "Male",
+    "salary": 93904
+  },
+  {
+    "": 24,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 24,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 113068
+  },
+  {
+    "": 25,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 13,
+    "yrs.service": 8,
+    "sex": "Female",
+    "salary": 74830
+  },
+  {
+    "": 26,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 21,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 106294
+  },
+  {
+    "": 27,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 35,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 134885
+  },
+  {
+    "": 28,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 5,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 82379
+  },
+  {
+    "": 29,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 11,
+    "yrs.service": 0,
+    "sex": "Male",
+    "salary": 77000
+  },
+  {
+    "": 30,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 12,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 118223
+  },
+  {
+    "": 31,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 20,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 132261
+  },
+  {
+    "": 32,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 7,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 79916
+  },
+  {
+    "": 33,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 13,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 117256
+  },
+  {
+    "": 34,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 80225
+  },
+  {
+    "": 35,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 2,
+    "sex": "Female",
+    "salary": 80225
+  },
+  {
+    "": 36,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 5,
+    "yrs.service": 0,
+    "sex": "Female",
+    "salary": 77000
+  },
+  {
+    "": 37,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 22,
+    "yrs.service": 21,
+    "sex": "Male",
+    "salary": 155750
+  },
+  {
+    "": 38,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 7,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 86373
+  },
+  {
+    "": 39,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 41,
+    "yrs.service": 31,
+    "sex": "Male",
+    "salary": 125196
+  },
+  {
+    "": 40,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 9,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 100938
+  },
+  {
+    "": 41,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 23,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 146500
+  },
+  {
+    "": 42,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 23,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 93418
+  },
+  {
+    "": 43,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 40,
+    "yrs.service": 27,
+    "sex": "Male",
+    "salary": 101299
+  },
+  {
+    "": 44,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 38,
+    "yrs.service": 38,
+    "sex": "Male",
+    "salary": 231545
+  },
+  {
+    "": 45,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 19,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 94384
+  },
+  {
+    "": 46,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 25,
+    "yrs.service": 15,
+    "sex": "Male",
+    "salary": 114778
+  },
+  {
+    "": 47,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 40,
+    "yrs.service": 28,
+    "sex": "Male",
+    "salary": 98193
+  },
+  {
+    "": 48,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 23,
+    "yrs.service": 19,
+    "sex": "Female",
+    "salary": 151768
+  },
+  {
+    "": 49,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 25,
+    "yrs.service": 25,
+    "sex": "Female",
+    "salary": 140096
+  },
+  {
+    "": 50,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 1,
+    "yrs.service": 1,
+    "sex": "Male",
+    "salary": 70768
+  },
+  {
+    "": 51,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 28,
+    "yrs.service": 28,
+    "sex": "Male",
+    "salary": 126621
+  },
+  {
+    "": 52,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 12,
+    "yrs.service": 11,
+    "sex": "Male",
+    "salary": 108875
+  },
+  {
+    "": 53,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 11,
+    "yrs.service": 3,
+    "sex": "Female",
+    "salary": 74692
+  },
+  {
+    "": 54,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 16,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 106639
+  },
+  {
+    "": 55,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 12,
+    "yrs.service": 11,
+    "sex": "Male",
+    "salary": 103760
+  },
+  {
+    "": 56,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 14,
+    "yrs.service": 5,
+    "sex": "Male",
+    "salary": 83900
+  },
+  {
+    "": 57,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 23,
+    "yrs.service": 21,
+    "sex": "Male",
+    "salary": 117704
+  },
+  {
+    "": 58,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 9,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 90215
+  },
+  {
+    "": 59,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 10,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 100135
+  },
+  {
+    "": 60,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 8,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 75044
+  },
+  {
+    "": 61,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 9,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 90304
+  },
+  {
+    "": 62,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 3,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 75243
+  },
+  {
+    "": 63,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 33,
+    "yrs.service": 31,
+    "sex": "Male",
+    "salary": 109785
+  },
+  {
+    "": 64,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 11,
+    "yrs.service": 11,
+    "sex": "Female",
+    "salary": 103613
+  },
+  {
+    "": 65,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 68404
+  },
+  {
+    "": 66,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 9,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 100522
+  },
+  {
+    "": 67,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 22,
+    "yrs.service": 12,
+    "sex": "Male",
+    "salary": 101000
+  },
+  {
+    "": 68,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 35,
+    "yrs.service": 31,
+    "sex": "Male",
+    "salary": 99418
+  },
+  {
+    "": 69,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 17,
+    "yrs.service": 17,
+    "sex": "Female",
+    "salary": 111512
+  },
+  {
+    "": 70,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 28,
+    "yrs.service": 36,
+    "sex": "Male",
+    "salary": 91412
+  },
+  {
+    "": 71,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 17,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 126320
+  },
+  {
+    "": 72,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 45,
+    "yrs.service": 45,
+    "sex": "Male",
+    "salary": 146856
+  },
+  {
+    "": 73,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 29,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 100131
+  },
+  {
+    "": 74,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 35,
+    "yrs.service": 34,
+    "sex": "Male",
+    "salary": 92391
+  },
+  {
+    "": 75,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 28,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 113398
+  },
+  {
+    "": 76,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 8,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 73266
+  },
+  {
+    "": 77,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 17,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 150480
+  },
+  {
+    "": 78,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 26,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 193000
+  },
+  {
+    "": 79,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 3,
+    "yrs.service": 1,
+    "sex": "Male",
+    "salary": 86100
+  },
+  {
+    "": 80,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 6,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 84240
+  },
+  {
+    "": 81,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 43,
+    "yrs.service": 28,
+    "sex": "Male",
+    "salary": 150743
+  },
+  {
+    "": 82,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 17,
+    "yrs.service": 16,
+    "sex": "Male",
+    "salary": 135585
+  },
+  {
+    "": 83,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 22,
+    "yrs.service": 20,
+    "sex": "Male",
+    "salary": 144640
+  },
+  {
+    "": 84,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 6,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 88825
+  },
+  {
+    "": 85,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 17,
+    "yrs.service": 18,
+    "sex": "Female",
+    "salary": 122960
+  },
+  {
+    "": 86,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 15,
+    "yrs.service": 14,
+    "sex": "Male",
+    "salary": 132825
+  },
+  {
+    "": 87,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 37,
+    "yrs.service": 37,
+    "sex": "Male",
+    "salary": 152708
+  },
+  {
+    "": 88,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 2,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 88400
+  },
+  {
+    "": 89,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 25,
+    "yrs.service": 25,
+    "sex": "Male",
+    "salary": 172272
+  },
+  {
+    "": 90,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 9,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 107008
+  },
+  {
+    "": 91,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 10,
+    "yrs.service": 5,
+    "sex": "Female",
+    "salary": 97032
+  },
+  {
+    "": 92,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 10,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 105128
+  },
+  {
+    "": 93,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 10,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 105631
+  },
+  {
+    "": 94,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 38,
+    "yrs.service": 38,
+    "sex": "Male",
+    "salary": 166024
+  },
+  {
+    "": 95,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 21,
+    "yrs.service": 20,
+    "sex": "Male",
+    "salary": 123683
+  },
+  {
+    "": 96,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 0,
+    "sex": "Male",
+    "salary": 84000
+  },
+  {
+    "": 97,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 17,
+    "yrs.service": 12,
+    "sex": "Male",
+    "salary": 95611
+  },
+  {
+    "": 98,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 13,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 129676
+  },
+  {
+    "": 99,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 30,
+    "yrs.service": 14,
+    "sex": "Male",
+    "salary": 102235
+  },
+  {
+    "": 100,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 41,
+    "yrs.service": 26,
+    "sex": "Male",
+    "salary": 106689
+  },
+  {
+    "": 101,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 42,
+    "yrs.service": 25,
+    "sex": "Male",
+    "salary": 133217
+  },
+  {
+    "": 102,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 28,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 126933
+  },
+  {
+    "": 103,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 16,
+    "yrs.service": 5,
+    "sex": "Male",
+    "salary": 153303
+  },
+  {
+    "": 104,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 20,
+    "yrs.service": 14,
+    "sex": "Female",
+    "salary": 127512
+  },
+  {
+    "": 105,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 18,
+    "yrs.service": 10,
+    "sex": "Male",
+    "salary": 83850
+  },
+  {
+    "": 106,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 31,
+    "yrs.service": 28,
+    "sex": "Male",
+    "salary": 113543
+  },
+  {
+    "": 107,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 11,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 82099
+  },
+  {
+    "": 108,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 10,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 82600
+  },
+  {
+    "": 109,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 15,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 81500
+  },
+  {
+    "": 110,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 40,
+    "yrs.service": 31,
+    "sex": "Male",
+    "salary": 131205
+  },
+  {
+    "": 111,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 20,
+    "yrs.service": 16,
+    "sex": "Male",
+    "salary": 112429
+  },
+  {
+    "": 112,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 19,
+    "yrs.service": 16,
+    "sex": "Male",
+    "salary": 82100
+  },
+  {
+    "": 113,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 3,
+    "yrs.service": 1,
+    "sex": "Male",
+    "salary": 72500
+  },
+  {
+    "": 114,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 37,
+    "yrs.service": 37,
+    "sex": "Male",
+    "salary": 104279
+  },
+  {
+    "": 115,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 12,
+    "yrs.service": 0,
+    "sex": "Female",
+    "salary": 105000
+  },
+  {
+    "": 116,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 21,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 120806
+  },
+  {
+    "": 117,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 30,
+    "yrs.service": 29,
+    "sex": "Male",
+    "salary": 148500
+  },
+  {
+    "": 118,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 39,
+    "yrs.service": 36,
+    "sex": "Male",
+    "salary": 117515
+  },
+  {
+    "": 119,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 4,
+    "yrs.service": 1,
+    "sex": "Male",
+    "salary": 72500
+  },
+  {
+    "": 120,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 5,
+    "yrs.service": 3,
+    "sex": "Female",
+    "salary": 73500
+  },
+  {
+    "": 121,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 14,
+    "yrs.service": 14,
+    "sex": "Male",
+    "salary": 115313
+  },
+  {
+    "": 122,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 32,
+    "yrs.service": 32,
+    "sex": "Male",
+    "salary": 124309
+  },
+  {
+    "": 123,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 24,
+    "yrs.service": 22,
+    "sex": "Male",
+    "salary": 97262
+  },
+  {
+    "": 124,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 25,
+    "yrs.service": 22,
+    "sex": "Female",
+    "salary": 62884
+  },
+  {
+    "": 125,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 24,
+    "yrs.service": 22,
+    "sex": "Male",
+    "salary": 96614
+  },
+  {
+    "": 126,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 54,
+    "yrs.service": 49,
+    "sex": "Male",
+    "salary": 78162
+  },
+  {
+    "": 127,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 28,
+    "yrs.service": 26,
+    "sex": "Male",
+    "salary": 155500
+  },
+  {
+    "": 128,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 2,
+    "yrs.service": 0,
+    "sex": "Female",
+    "salary": 72500
+  },
+  {
+    "": 129,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 32,
+    "yrs.service": 30,
+    "sex": "Male",
+    "salary": 113278
+  },
+  {
+    "": 130,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 4,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 73000
+  },
+  {
+    "": 131,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 11,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 83001
+  },
+  {
+    "": 132,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 56,
+    "yrs.service": 57,
+    "sex": "Male",
+    "salary": 76840
+  },
+  {
+    "": 133,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 10,
+    "yrs.service": 8,
+    "sex": "Female",
+    "salary": 77500
+  },
+  {
+    "": 134,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 3,
+    "yrs.service": 1,
+    "sex": "Female",
+    "salary": 72500
+  },
+  {
+    "": 135,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 35,
+    "yrs.service": 25,
+    "sex": "Male",
+    "salary": 168635
+  },
+  {
+    "": 136,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 20,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 136000
+  },
+  {
+    "": 137,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 16,
+    "yrs.service": 14,
+    "sex": "Male",
+    "salary": 108262
+  },
+  {
+    "": 138,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 17,
+    "yrs.service": 14,
+    "sex": "Male",
+    "salary": 105668
+  },
+  {
+    "": 139,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 10,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 73877
+  },
+  {
+    "": 140,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 21,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 152664
+  },
+  {
+    "": 141,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 14,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 100102
+  },
+  {
+    "": 142,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 15,
+    "yrs.service": 10,
+    "sex": "Male",
+    "salary": 81500
+  },
+  {
+    "": 143,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 19,
+    "yrs.service": 11,
+    "sex": "Male",
+    "salary": 106608
+  },
+  {
+    "": 144,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 3,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 89942
+  },
+  {
+    "": 145,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 27,
+    "yrs.service": 27,
+    "sex": "Male",
+    "salary": 112696
+  },
+  {
+    "": 146,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 28,
+    "yrs.service": 28,
+    "sex": "Male",
+    "salary": 119015
+  },
+  {
+    "": 147,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 92000
+  },
+  {
+    "": 148,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 27,
+    "yrs.service": 27,
+    "sex": "Male",
+    "salary": 156938
+  },
+  {
+    "": 149,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 36,
+    "yrs.service": 26,
+    "sex": "Female",
+    "salary": 144651
+  },
+  {
+    "": 150,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 95079
+  },
+  {
+    "": 151,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 14,
+    "yrs.service": 12,
+    "sex": "Male",
+    "salary": 128148
+  },
+  {
+    "": 152,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 92000
+  },
+  {
+    "": 153,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 21,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 111168
+  },
+  {
+    "": 154,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 12,
+    "yrs.service": 10,
+    "sex": "Female",
+    "salary": 103994
+  },
+  {
+    "": 155,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 0,
+    "sex": "Male",
+    "salary": 92000
+  },
+  {
+    "": 156,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 21,
+    "yrs.service": 21,
+    "sex": "Male",
+    "salary": 118971
+  },
+  {
+    "": 157,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 12,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 113341
+  },
+  {
+    "": 158,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 1,
+    "yrs.service": 0,
+    "sex": "Male",
+    "salary": 88000
+  },
+  {
+    "": 159,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 6,
+    "yrs.service": 6,
+    "sex": "Male",
+    "salary": 95408
+  },
+  {
+    "": 160,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 15,
+    "yrs.service": 16,
+    "sex": "Male",
+    "salary": 137167
+  },
+  {
+    "": 161,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 2,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 89516
+  },
+  {
+    "": 162,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 26,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 176500
+  },
+  {
+    "": 163,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 22,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 98510
+  },
+  {
+    "": 164,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 3,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 89942
+  },
+  {
+    "": 165,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 1,
+    "yrs.service": 0,
+    "sex": "Male",
+    "salary": 88795
+  },
+  {
+    "": 166,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 21,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 105890
+  },
+  {
+    "": 167,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 16,
+    "yrs.service": 16,
+    "sex": "Male",
+    "salary": 167284
+  },
+  {
+    "": 168,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 18,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 130664
+  },
+  {
+    "": 169,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 8,
+    "yrs.service": 6,
+    "sex": "Male",
+    "salary": 101210
+  },
+  {
+    "": 170,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 25,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 181257
+  },
+  {
+    "": 171,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 5,
+    "yrs.service": 5,
+    "sex": "Male",
+    "salary": 91227
+  },
+  {
+    "": 172,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 19,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 151575
+  },
+  {
+    "": 173,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 37,
+    "yrs.service": 24,
+    "sex": "Male",
+    "salary": 93164
+  },
+  {
+    "": 174,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 20,
+    "yrs.service": 20,
+    "sex": "Male",
+    "salary": 134185
+  },
+  {
+    "": 175,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 17,
+    "yrs.service": 6,
+    "sex": "Male",
+    "salary": 105000
+  },
+  {
+    "": 176,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 28,
+    "yrs.service": 25,
+    "sex": "Male",
+    "salary": 111751
+  },
+  {
+    "": 177,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 10,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 95436
+  },
+  {
+    "": 178,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 13,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 100944
+  },
+  {
+    "": 179,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 27,
+    "yrs.service": 14,
+    "sex": "Male",
+    "salary": 147349
+  },
+  {
+    "": 180,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 3,
+    "yrs.service": 3,
+    "sex": "Female",
+    "salary": 92000
+  },
+  {
+    "": 181,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 11,
+    "yrs.service": 11,
+    "sex": "Male",
+    "salary": 142467
+  },
+  {
+    "": 182,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 18,
+    "yrs.service": 5,
+    "sex": "Male",
+    "salary": 141136
+  },
+  {
+    "": 183,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 8,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 100000
+  },
+  {
+    "": 184,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 26,
+    "yrs.service": 22,
+    "sex": "Male",
+    "salary": 150000
+  },
+  {
+    "": 185,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 23,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 101000
+  },
+  {
+    "": 186,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 33,
+    "yrs.service": 30,
+    "sex": "Male",
+    "salary": 134000
+  },
+  {
+    "": 187,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 13,
+    "yrs.service": 10,
+    "sex": "Female",
+    "salary": 103750
+  },
+  {
+    "": 188,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 18,
+    "yrs.service": 10,
+    "sex": "Male",
+    "salary": 107500
+  },
+  {
+    "": 189,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 28,
+    "yrs.service": 28,
+    "sex": "Male",
+    "salary": 106300
+  },
+  {
+    "": 190,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 25,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 153750
+  },
+  {
+    "": 191,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 22,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 180000
+  },
+  {
+    "": 192,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 43,
+    "yrs.service": 22,
+    "sex": "Male",
+    "salary": 133700
+  },
+  {
+    "": 193,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 19,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 122100
+  },
+  {
+    "": 194,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 19,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 86250
+  },
+  {
+    "": 195,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 48,
+    "yrs.service": 53,
+    "sex": "Male",
+    "salary": 90000
+  },
+  {
+    "": 196,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 9,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 113600
+  },
+  {
+    "": 197,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 92700
+  },
+  {
+    "": 198,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 92000
+  },
+  {
+    "": 199,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 34,
+    "yrs.service": 33,
+    "sex": "Male",
+    "salary": 189409
+  },
+  {
+    "": 200,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 38,
+    "yrs.service": 22,
+    "sex": "Male",
+    "salary": 114500
+  },
+  {
+    "": 201,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 92700
+  },
+  {
+    "": 202,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 40,
+    "yrs.service": 40,
+    "sex": "Male",
+    "salary": 119700
+  },
+  {
+    "": 203,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 28,
+    "yrs.service": 17,
+    "sex": "Male",
+    "salary": 160400
+  },
+  {
+    "": 204,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 17,
+    "yrs.service": 17,
+    "sex": "Male",
+    "salary": 152500
+  },
+  {
+    "": 205,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 19,
+    "yrs.service": 5,
+    "sex": "Male",
+    "salary": 165000
+  },
+  {
+    "": 206,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 21,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 96545
+  },
+  {
+    "": 207,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 35,
+    "yrs.service": 33,
+    "sex": "Male",
+    "salary": 162200
+  },
+  {
+    "": 208,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 18,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 120000
+  },
+  {
+    "": 209,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 7,
+    "yrs.service": 2,
+    "sex": "Male",
+    "salary": 91300
+  },
+  {
+    "": 210,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 20,
+    "yrs.service": 20,
+    "sex": "Male",
+    "salary": 163200
+  },
+  {
+    "": 211,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 91000
+  },
+  {
+    "": 212,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 39,
+    "yrs.service": 39,
+    "sex": "Male",
+    "salary": 111350
+  },
+  {
+    "": 213,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 15,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 128400
+  },
+  {
+    "": 214,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 26,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 126200
+  },
+  {
+    "": 215,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 11,
+    "yrs.service": 1,
+    "sex": "Male",
+    "salary": 118700
+  },
+  {
+    "": 216,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 16,
+    "yrs.service": 11,
+    "sex": "Male",
+    "salary": 145350
+  },
+  {
+    "": 217,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 15,
+    "yrs.service": 11,
+    "sex": "Male",
+    "salary": 146000
+  },
+  {
+    "": 218,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 29,
+    "yrs.service": 22,
+    "sex": "Male",
+    "salary": 105350
+  },
+  {
+    "": 219,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 14,
+    "yrs.service": 7,
+    "sex": "Female",
+    "salary": 109650
+  },
+  {
+    "": 220,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 13,
+    "yrs.service": 11,
+    "sex": "Male",
+    "salary": 119500
+  },
+  {
+    "": 221,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 21,
+    "yrs.service": 21,
+    "sex": "Male",
+    "salary": 170000
+  },
+  {
+    "": 222,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 23,
+    "yrs.service": 10,
+    "sex": "Male",
+    "salary": 145200
+  },
+  {
+    "": 223,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 13,
+    "yrs.service": 6,
+    "sex": "Male",
+    "salary": 107150
+  },
+  {
+    "": 224,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 34,
+    "yrs.service": 20,
+    "sex": "Male",
+    "salary": 129600
+  },
+  {
+    "": 225,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 38,
+    "yrs.service": 35,
+    "sex": "Male",
+    "salary": 87800
+  },
+  {
+    "": 226,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 20,
+    "yrs.service": 20,
+    "sex": "Male",
+    "salary": 122400
+  },
+  {
+    "": 227,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 3,
+    "yrs.service": 1,
+    "sex": "Male",
+    "salary": 63900
+  },
+  {
+    "": 228,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 9,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 70000
+  },
+  {
+    "": 229,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 16,
+    "yrs.service": 11,
+    "sex": "Male",
+    "salary": 88175
+  },
+  {
+    "": 230,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 39,
+    "yrs.service": 38,
+    "sex": "Male",
+    "salary": 133900
+  },
+  {
+    "": 231,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 29,
+    "yrs.service": 27,
+    "sex": "Female",
+    "salary": 91000
+  },
+  {
+    "": 232,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 26,
+    "yrs.service": 24,
+    "sex": "Female",
+    "salary": 73300
+  },
+  {
+    "": 233,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 38,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 148750
+  },
+  {
+    "": 234,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 36,
+    "yrs.service": 19,
+    "sex": "Female",
+    "salary": 117555
+  },
+  {
+    "": 235,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 8,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 69700
+  },
+  {
+    "": 236,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 28,
+    "yrs.service": 17,
+    "sex": "Male",
+    "salary": 81700
+  },
+  {
+    "": 237,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 25,
+    "yrs.service": 25,
+    "sex": "Male",
+    "salary": 114000
+  },
+  {
+    "": 238,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 7,
+    "yrs.service": 6,
+    "sex": "Female",
+    "salary": 63100
+  },
+  {
+    "": 239,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 46,
+    "yrs.service": 40,
+    "sex": "Male",
+    "salary": 77202
+  },
+  {
+    "": 240,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 19,
+    "yrs.service": 6,
+    "sex": "Male",
+    "salary": 96200
+  },
+  {
+    "": 241,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 5,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 69200
+  },
+  {
+    "": 242,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 31,
+    "yrs.service": 30,
+    "sex": "Male",
+    "salary": 122875
+  },
+  {
+    "": 243,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 38,
+    "yrs.service": 37,
+    "sex": "Male",
+    "salary": 102600
+  },
+  {
+    "": 244,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 23,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 108200
+  },
+  {
+    "": 245,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 19,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 84273
+  },
+  {
+    "": 246,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 17,
+    "yrs.service": 11,
+    "sex": "Female",
+    "salary": 90450
+  },
+  {
+    "": 247,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 30,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 91100
+  },
+  {
+    "": 248,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 21,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 101100
+  },
+  {
+    "": 249,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 28,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 128800
+  },
+  {
+    "": 250,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 29,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 204000
+  },
+  {
+    "": 251,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 39,
+    "yrs.service": 39,
+    "sex": "Male",
+    "salary": 109000
+  },
+  {
+    "": 252,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 20,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 102000
+  },
+  {
+    "": 253,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 31,
+    "yrs.service": 12,
+    "sex": "Male",
+    "salary": 132000
+  },
+  {
+    "": 254,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 4,
+    "yrs.service": 2,
+    "sex": "Female",
+    "salary": 77500
+  },
+  {
+    "": 255,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 28,
+    "yrs.service": 7,
+    "sex": "Female",
+    "salary": 116450
+  },
+  {
+    "": 256,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 12,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 83000
+  },
+  {
+    "": 257,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 22,
+    "yrs.service": 22,
+    "sex": "Male",
+    "salary": 140300
+  },
+  {
+    "": 258,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 30,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 74000
+  },
+  {
+    "": 259,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 9,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 73800
+  },
+  {
+    "": 260,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 32,
+    "yrs.service": 30,
+    "sex": "Male",
+    "salary": 92550
+  },
+  {
+    "": 261,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 41,
+    "yrs.service": 33,
+    "sex": "Male",
+    "salary": 88600
+  },
+  {
+    "": 262,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 45,
+    "yrs.service": 45,
+    "sex": "Male",
+    "salary": 107550
+  },
+  {
+    "": 263,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 31,
+    "yrs.service": 26,
+    "sex": "Male",
+    "salary": 121200
+  },
+  {
+    "": 264,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 31,
+    "yrs.service": 31,
+    "sex": "Male",
+    "salary": 126000
+  },
+  {
+    "": 265,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 37,
+    "yrs.service": 35,
+    "sex": "Male",
+    "salary": 99000
+  },
+  {
+    "": 266,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 36,
+    "yrs.service": 30,
+    "sex": "Male",
+    "salary": 134800
+  },
+  {
+    "": 267,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 43,
+    "yrs.service": 43,
+    "sex": "Male",
+    "salary": 143940
+  },
+  {
+    "": 268,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 14,
+    "yrs.service": 10,
+    "sex": "Male",
+    "salary": 104350
+  },
+  {
+    "": 269,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 47,
+    "yrs.service": 44,
+    "sex": "Male",
+    "salary": 89650
+  },
+  {
+    "": 270,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 13,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 103700
+  },
+  {
+    "": 271,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 42,
+    "yrs.service": 40,
+    "sex": "Male",
+    "salary": 143250
+  },
+  {
+    "": 272,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 42,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 194800
+  },
+  {
+    "": 273,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 4,
+    "yrs.service": 1,
+    "sex": "Male",
+    "salary": 73000
+  },
+  {
+    "": 274,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 8,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 74000
+  },
+  {
+    "": 275,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 8,
+    "yrs.service": 3,
+    "sex": "Female",
+    "salary": 78500
+  },
+  {
+    "": 276,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 12,
+    "yrs.service": 6,
+    "sex": "Male",
+    "salary": 93000
+  },
+  {
+    "": 277,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 52,
+    "yrs.service": 48,
+    "sex": "Male",
+    "salary": 107200
+  },
+  {
+    "": 278,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 31,
+    "yrs.service": 27,
+    "sex": "Male",
+    "salary": 163200
+  },
+  {
+    "": 279,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 24,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 107100
+  },
+  {
+    "": 280,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 46,
+    "yrs.service": 46,
+    "sex": "Male",
+    "salary": 100600
+  },
+  {
+    "": 281,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 39,
+    "yrs.service": 38,
+    "sex": "Male",
+    "salary": 136500
+  },
+  {
+    "": 282,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 37,
+    "yrs.service": 27,
+    "sex": "Male",
+    "salary": 103600
+  },
+  {
+    "": 283,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 51,
+    "yrs.service": 51,
+    "sex": "Male",
+    "salary": 57800
+  },
+  {
+    "": 284,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 45,
+    "yrs.service": 43,
+    "sex": "Male",
+    "salary": 155865
+  },
+  {
+    "": 285,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 8,
+    "yrs.service": 6,
+    "sex": "Male",
+    "salary": 88650
+  },
+  {
+    "": 286,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 49,
+    "yrs.service": 49,
+    "sex": "Male",
+    "salary": 81800
+  },
+  {
+    "": 287,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 28,
+    "yrs.service": 27,
+    "sex": "Male",
+    "salary": 115800
+  },
+  {
+    "": 288,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 2,
+    "yrs.service": 0,
+    "sex": "Male",
+    "salary": 85000
+  },
+  {
+    "": 289,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 29,
+    "yrs.service": 27,
+    "sex": "Male",
+    "salary": 150500
+  },
+  {
+    "": 290,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 8,
+    "yrs.service": 5,
+    "sex": "Male",
+    "salary": 74000
+  },
+  {
+    "": 291,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 33,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 174500
+  },
+  {
+    "": 292,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 32,
+    "yrs.service": 28,
+    "sex": "Male",
+    "salary": 168500
+  },
+  {
+    "": 293,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 39,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 183800
+  },
+  {
+    "": 294,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 11,
+    "yrs.service": 1,
+    "sex": "Male",
+    "salary": 104800
+  },
+  {
+    "": 295,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 19,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 107300
+  },
+  {
+    "": 296,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 40,
+    "yrs.service": 36,
+    "sex": "Male",
+    "salary": 97150
+  },
+  {
+    "": 297,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 18,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 126300
+  },
+  {
+    "": 298,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 17,
+    "yrs.service": 11,
+    "sex": "Male",
+    "salary": 148800
+  },
+  {
+    "": 299,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 49,
+    "yrs.service": 43,
+    "sex": "Male",
+    "salary": 72300
+  },
+  {
+    "": 300,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 45,
+    "yrs.service": 39,
+    "sex": "Male",
+    "salary": 70700
+  },
+  {
+    "": 301,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 39,
+    "yrs.service": 36,
+    "sex": "Male",
+    "salary": 88600
+  },
+  {
+    "": 302,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 27,
+    "yrs.service": 16,
+    "sex": "Male",
+    "salary": 127100
+  },
+  {
+    "": 303,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 28,
+    "yrs.service": 13,
+    "sex": "Male",
+    "salary": 170500
+  },
+  {
+    "": 304,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 14,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 105260
+  },
+  {
+    "": 305,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 46,
+    "yrs.service": 44,
+    "sex": "Male",
+    "salary": 144050
+  },
+  {
+    "": 306,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 33,
+    "yrs.service": 31,
+    "sex": "Male",
+    "salary": 111350
+  },
+  {
+    "": 307,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 7,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 74500
+  },
+  {
+    "": 308,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 31,
+    "yrs.service": 28,
+    "sex": "Male",
+    "salary": 122500
+  },
+  {
+    "": 309,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 5,
+    "yrs.service": 0,
+    "sex": "Male",
+    "salary": 74000
+  },
+  {
+    "": 310,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 22,
+    "yrs.service": 15,
+    "sex": "Male",
+    "salary": 166800
+  },
+  {
+    "": 311,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 20,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 92050
+  },
+  {
+    "": 312,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 14,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 108100
+  },
+  {
+    "": 313,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 29,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 94350
+  },
+  {
+    "": 314,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 35,
+    "yrs.service": 35,
+    "sex": "Male",
+    "salary": 100351
+  },
+  {
+    "": 315,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 22,
+    "yrs.service": 6,
+    "sex": "Male",
+    "salary": 146800
+  },
+  {
+    "": 316,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 6,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 84716
+  },
+  {
+    "": 317,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 12,
+    "yrs.service": 9,
+    "sex": "Female",
+    "salary": 71065
+  },
+  {
+    "": 318,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 46,
+    "yrs.service": 45,
+    "sex": "Male",
+    "salary": 67559
+  },
+  {
+    "": 319,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 16,
+    "yrs.service": 16,
+    "sex": "Male",
+    "salary": 134550
+  },
+  {
+    "": 320,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 16,
+    "yrs.service": 15,
+    "sex": "Male",
+    "salary": 135027
+  },
+  {
+    "": 321,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 24,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 104428
+  },
+  {
+    "": 322,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 9,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 95642
+  },
+  {
+    "": 323,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 13,
+    "yrs.service": 11,
+    "sex": "Male",
+    "salary": 126431
+  },
+  {
+    "": 324,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 24,
+    "yrs.service": 15,
+    "sex": "Female",
+    "salary": 161101
+  },
+  {
+    "": 325,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 30,
+    "yrs.service": 31,
+    "sex": "Male",
+    "salary": 162221
+  },
+  {
+    "": 326,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 8,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 84500
+  },
+  {
+    "": 327,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 23,
+    "yrs.service": 15,
+    "sex": "Male",
+    "salary": 124714
+  },
+  {
+    "": 328,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 37,
+    "yrs.service": 37,
+    "sex": "Male",
+    "salary": 151650
+  },
+  {
+    "": 329,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 10,
+    "yrs.service": 10,
+    "sex": "Male",
+    "salary": 99247
+  },
+  {
+    "": 330,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 23,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 134778
+  },
+  {
+    "": 331,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 49,
+    "yrs.service": 60,
+    "sex": "Male",
+    "salary": 192253
+  },
+  {
+    "": 332,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 20,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 116518
+  },
+  {
+    "": 333,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 18,
+    "yrs.service": 10,
+    "sex": "Female",
+    "salary": 105450
+  },
+  {
+    "": 334,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 33,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 145098
+  },
+  {
+    "": 335,
+    "rank": "AssocProf",
+    "discipline": "B",
+    "yrs.since.phd": 19,
+    "yrs.service": 6,
+    "sex": "Female",
+    "salary": 104542
+  },
+  {
+    "": 336,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 36,
+    "yrs.service": 38,
+    "sex": "Male",
+    "salary": 151445
+  },
+  {
+    "": 337,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 35,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 98053
+  },
+  {
+    "": 338,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 13,
+    "yrs.service": 12,
+    "sex": "Male",
+    "salary": 145000
+  },
+  {
+    "": 339,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 32,
+    "yrs.service": 25,
+    "sex": "Male",
+    "salary": 128464
+  },
+  {
+    "": 340,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 37,
+    "yrs.service": 15,
+    "sex": "Male",
+    "salary": 137317
+  },
+  {
+    "": 341,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 13,
+    "yrs.service": 11,
+    "sex": "Male",
+    "salary": 106231
+  },
+  {
+    "": 342,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 17,
+    "yrs.service": 17,
+    "sex": "Female",
+    "salary": 124312
+  },
+  {
+    "": 343,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 38,
+    "yrs.service": 38,
+    "sex": "Male",
+    "salary": 114596
+  },
+  {
+    "": 344,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 31,
+    "yrs.service": 31,
+    "sex": "Male",
+    "salary": 162150
+  },
+  {
+    "": 345,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 32,
+    "yrs.service": 35,
+    "sex": "Male",
+    "salary": 150376
+  },
+  {
+    "": 346,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 15,
+    "yrs.service": 10,
+    "sex": "Male",
+    "salary": 107986
+  },
+  {
+    "": 347,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 41,
+    "yrs.service": 27,
+    "sex": "Male",
+    "salary": 142023
+  },
+  {
+    "": 348,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 39,
+    "yrs.service": 33,
+    "sex": "Male",
+    "salary": 128250
+  },
+  {
+    "": 349,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 4,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 80139
+  },
+  {
+    "": 350,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 27,
+    "yrs.service": 28,
+    "sex": "Male",
+    "salary": 144309
+  },
+  {
+    "": 351,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 56,
+    "yrs.service": 49,
+    "sex": "Male",
+    "salary": 186960
+  },
+  {
+    "": 352,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 38,
+    "yrs.service": 38,
+    "sex": "Male",
+    "salary": 93519
+  },
+  {
+    "": 353,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 26,
+    "yrs.service": 27,
+    "sex": "Male",
+    "salary": 142500
+  },
+  {
+    "": 354,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 22,
+    "yrs.service": 20,
+    "sex": "Male",
+    "salary": 138000
+  },
+  {
+    "": 355,
+    "rank": "AsstProf",
+    "discipline": "B",
+    "yrs.since.phd": 8,
+    "yrs.service": 1,
+    "sex": "Male",
+    "salary": 83600
+  },
+  {
+    "": 356,
+    "rank": "Prof",
+    "discipline": "B",
+    "yrs.since.phd": 25,
+    "yrs.service": 21,
+    "sex": "Male",
+    "salary": 145028
+  },
+  {
+    "": 357,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 49,
+    "yrs.service": 40,
+    "sex": "Male",
+    "salary": 88709
+  },
+  {
+    "": 358,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 39,
+    "yrs.service": 35,
+    "sex": "Male",
+    "salary": 107309
+  },
+  {
+    "": 359,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 28,
+    "yrs.service": 14,
+    "sex": "Female",
+    "salary": 109954
+  },
+  {
+    "": 360,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 11,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 78785
+  },
+  {
+    "": 361,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 14,
+    "yrs.service": 11,
+    "sex": "Male",
+    "salary": 121946
+  },
+  {
+    "": 362,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 23,
+    "yrs.service": 15,
+    "sex": "Female",
+    "salary": 109646
+  },
+  {
+    "": 363,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 30,
+    "yrs.service": 30,
+    "sex": "Male",
+    "salary": 138771
+  },
+  {
+    "": 364,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 20,
+    "yrs.service": 17,
+    "sex": "Male",
+    "salary": 81285
+  },
+  {
+    "": 365,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 43,
+    "yrs.service": 43,
+    "sex": "Male",
+    "salary": 205500
+  },
+  {
+    "": 366,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 43,
+    "yrs.service": 40,
+    "sex": "Male",
+    "salary": 101036
+  },
+  {
+    "": 367,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 15,
+    "yrs.service": 10,
+    "sex": "Male",
+    "salary": 115435
+  },
+  {
+    "": 368,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 10,
+    "yrs.service": 1,
+    "sex": "Male",
+    "salary": 108413
+  },
+  {
+    "": 369,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 35,
+    "yrs.service": 30,
+    "sex": "Male",
+    "salary": 131950
+  },
+  {
+    "": 370,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 33,
+    "yrs.service": 31,
+    "sex": "Male",
+    "salary": 134690
+  },
+  {
+    "": 371,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 13,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 78182
+  },
+  {
+    "": 372,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 23,
+    "yrs.service": 20,
+    "sex": "Male",
+    "salary": 110515
+  },
+  {
+    "": 373,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 12,
+    "yrs.service": 7,
+    "sex": "Male",
+    "salary": 109707
+  },
+  {
+    "": 374,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 30,
+    "yrs.service": 26,
+    "sex": "Male",
+    "salary": 136660
+  },
+  {
+    "": 375,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 27,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 103275
+  },
+  {
+    "": 376,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 28,
+    "yrs.service": 26,
+    "sex": "Male",
+    "salary": 103649
+  },
+  {
+    "": 377,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 4,
+    "yrs.service": 1,
+    "sex": "Male",
+    "salary": 74856
+  },
+  {
+    "": 378,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 6,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 77081
+  },
+  {
+    "": 379,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 38,
+    "yrs.service": 38,
+    "sex": "Male",
+    "salary": 150680
+  },
+  {
+    "": 380,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 11,
+    "yrs.service": 8,
+    "sex": "Male",
+    "salary": 104121
+  },
+  {
+    "": 381,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 8,
+    "yrs.service": 3,
+    "sex": "Male",
+    "salary": 75996
+  },
+  {
+    "": 382,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 27,
+    "yrs.service": 23,
+    "sex": "Male",
+    "salary": 172505
+  },
+  {
+    "": 383,
+    "rank": "AssocProf",
+    "discipline": "A",
+    "yrs.since.phd": 8,
+    "yrs.service": 5,
+    "sex": "Male",
+    "salary": 86895
+  },
+  {
+    "": 384,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 44,
+    "yrs.service": 44,
+    "sex": "Male",
+    "salary": 105000
+  },
+  {
+    "": 385,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 27,
+    "yrs.service": 21,
+    "sex": "Male",
+    "salary": 125192
+  },
+  {
+    "": 386,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 15,
+    "yrs.service": 9,
+    "sex": "Male",
+    "salary": 114330
+  },
+  {
+    "": 387,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 29,
+    "yrs.service": 27,
+    "sex": "Male",
+    "salary": 139219
+  },
+  {
+    "": 388,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 29,
+    "yrs.service": 15,
+    "sex": "Male",
+    "salary": 109305
+  },
+  {
+    "": 389,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 38,
+    "yrs.service": 36,
+    "sex": "Male",
+    "salary": 119450
+  },
+  {
+    "": 390,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 33,
+    "yrs.service": 18,
+    "sex": "Male",
+    "salary": 186023
+  },
+  {
+    "": 391,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 40,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 166605
+  },
+  {
+    "": 392,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 30,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 151292
+  },
+  {
+    "": 393,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 33,
+    "yrs.service": 30,
+    "sex": "Male",
+    "salary": 103106
+  },
+  {
+    "": 394,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 31,
+    "yrs.service": 19,
+    "sex": "Male",
+    "salary": 150564
+  },
+  {
+    "": 395,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 42,
+    "yrs.service": 25,
+    "sex": "Male",
+    "salary": 101738
+  },
+  {
+    "": 396,
+    "rank": "Prof",
+    "discipline": "A",
+    "yrs.since.phd": 25,
+    "yrs.service": 15,
+    "sex": "Male",
+    "salary": 95329
+  },
+  {
+    "": 397,
+    "rank": "AsstProf",
+    "discipline": "A",
+    "yrs.since.phd": 8,
+    "yrs.service": 4,
+    "sex": "Male",
+    "salary": 81035
+  }
+]
